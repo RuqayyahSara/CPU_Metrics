@@ -1,1 +1,3 @@
 # CPU_Metrics
+
+Created a Command Line Utility that gives performance metrics of Time of Execution and Memory used by a program. The perfhooks module in Node.js allows you to measure the performance of your JavaScript code using the Performance and PerformanceObserver objects. This can be used for example to measure the performance of a certain function. It has been used in making an Online Compiler.
